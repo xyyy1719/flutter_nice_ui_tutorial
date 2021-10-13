@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Glues",
+        "img": "assets/images/area1.png"
+    },
+    {
+        "title": "Abs",
+        "img": "assets/images/area2.png"
+    },
+    {
+        "title": "Legs",
+        "img": "assets/images/area3.png"
+    },
+    {
+        "title": "Arms",
+        "img": "assets/images/area1.png"
+    },
+    {
+        "title": "Body",
+        "img": "assets/images/area2.png"
+    },
+    {
+        "title": "Head",
+        "img": "assets/images/area3.png"
+    }
+]
